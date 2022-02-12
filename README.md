@@ -1,0 +1,2 @@
+# NN-
+Using the Fashion-MNIST data, we will build a random forest classifier as a naïve benchmark to compare the efficiency and accuracy of a fully-connected neural network. We will also explore the hyper-parameter tuning of our neural network by manipulating the size of the different types of layers, the loss function, the epochs and the batch size located in the initializing phase of the model. 
