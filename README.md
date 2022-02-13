@@ -6,10 +6,10 @@ Using the Fashion-MNIST data, we will build a random forest classifier as a naï
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70657426/153689936-d0c0eb4c-ef23-4194-bd0f-904f6d82a5e5.png">
-<img src="https://user-images.githubusercontent.com/70657426/153689927-0a8f6271-23bb-4662-864d-39b432135979.png">
-<img src="https://user-images.githubusercontent.com/70657426/153689930-a6736cba-a8bc-4d4e-b4bd-af65242e55dc.png">
-<img src="https://user-images.githubusercontent.com/70657426/153689931-25d9590b-89c7-4b6a-bfcb-f04421572c02.png">
-<img src="https://user-images.githubusercontent.com/70657426/153689933-4ce9edf9-7721-4fa4-96f3-95eb413ea647.png">
-<img src="https://user-images.githubusercontent.com/70657426/153689935-d19ddbae-4e43-4c67-8032-95c17c24c131.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776103-b2c1beda-a234-4ba7-b56f-6dbfc20f7189.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776112-eead4e3f-c18d-4b97-91f0-aa0cb065207b.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776137-09b004ed-e6a3-4d8c-8d03-d72f6c3dacbc.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776152-9914d957-c015-4b9c-9fc7-19ca95569f40.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776161-782b4bf3-c4dc-4720-8e09-2e1d9492958a.png">
+<img src="https://user-images.githubusercontent.com/70657426/153776121-d2250036-243c-4032-a037-a38af0f4f6a2.png">
 </p>
